@@ -13,7 +13,8 @@ header = {
     'content-type': 'application/json',
     'referer': 'https://jikipedia.com/',
     'Client': 'web',
-    'Client-Version': '2.6.10r'
+    'Client-Version': '2.7.2d',
+    'XID': 'OLk5qKoDNfdUKFydz/lB6VFfmrl4IrGnfb/aCR5mzwOLxsqVWLgrPHE4V4zMkCPr2qexM57y5NM210aN67vGiSFMj0HkpGNyXHe6VTdrCzc='
 }
 freq = FreqLimiter(60)
 
