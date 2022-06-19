@@ -9,7 +9,7 @@ xxx是什么梗 查询xxx的含义
 """.strip()
 host = 'https://api.jikipedia.com/go/search_entities'
 header = {
-    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36',
     'content-type': 'application/json',
     'referer': 'https://jikipedia.com/',
     'Client': 'web',
